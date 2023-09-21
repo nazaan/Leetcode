@@ -1,5 +1,3 @@
-
-# Online Python - IDE, Editor, Compiler, Interpreter
 nums= [1,5,8,9,16,19]
 Target= 14
 class Solution:
