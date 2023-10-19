@@ -6,3 +6,4 @@ Links to the problems:
 * https://leetcode.com/problems/length-of-last-word/
 * https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 * https://leetcode.com/problems/remove-element/
+* https://leetcode.com/problems/remove-duplicates-from-sorted-array/
